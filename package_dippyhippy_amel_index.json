@@ -11,10 +11,10 @@
         "architecture": "samd",
         "version": "1.0.0",
         "category": "Partner",
-        "url": "https://github.com/dippyhippy/sme-arduino-core/archive/master.zip",
-        "archiveFileName": "sme-arduino-core-master.zip",
-        "checksum": "SHA-256:ca69bf75d6879ae2c5eac4356b66b0eb41bfe28710dcb2a1c29e9bfe9f0e12cc",
-        "size": "68410",
+        "url": "https://github.com/dippyhippy/sme-arduino-core/archive/V1.0.0.tar.gz",
+        "archiveFileName": "V1.0.0.tar.gz",
+        "checksum": "SHA-256:1be88d922a2b41cc48bda3e297b8125f10d4fd5192e6364a643ed2a9daf12e08",
+        "size": "73584",
         "boards": [
           {"name": "SmartEverything Fox"}
         ],
