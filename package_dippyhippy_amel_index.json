@@ -1,0 +1,49 @@
+{
+  "packages": [
+  {
+    "name": "dippyhippy",
+    "maintainer": "Ben Major",
+    "websiteURL": "http://www.dippyhippy.com",
+    "email": "ben@dippyhippy.com",
+    "platforms": [
+      {
+        "name": "AMEL-Tech Boards - dippyhippy",
+        "architecture": "samd",
+        "version": "1.0.0",
+        "category": "Partner",
+        "url": "https://github.com/dippyhippy/sme-arduino-core/archive/master.zip",
+        "archiveFileName": "sme-arduino-core-master.zip",
+        "checksum": "SHA-256:ca69bf75d6879ae2c5eac4356b66b0eb41bfe28710dcb2a1c29e9bfe9f0e12cc",
+        "size": "68410",
+        "boards": [
+          {"name": "SmartEverything Fox"}
+        ],
+        "toolsDependencies": [
+          {
+            "packager": "arduino",
+            "name": "arm-none-eabi-gcc",
+            "version": "4.8.3-2014q1"
+          },
+          {
+            "packager": "arduino",
+            "name": "bossac",
+            "version": "1.5-arduino"
+          },
+          {
+            "packager": "arduino",
+            "name": "openocd",
+            "version": "0.9.0-arduino"
+          },
+          {
+            "packager": "arduino",
+            "name": "CMSIS",
+            "version": "4.0.0-atmel"
+          }
+        ]
+      }
+    ],
+    "tools": [
+    ]
+  }
+   ]
+}
